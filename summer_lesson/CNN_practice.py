@@ -5,6 +5,7 @@ import torch.utils.data as Data
 import torchvision
 import matplotlib.pyplot as plt
 
+
 ## first part : download data (very famous dataset called Mnist)
 """
 your code
